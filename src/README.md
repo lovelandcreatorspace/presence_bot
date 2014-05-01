@@ -1,0 +1,3 @@
+## Coming soon...
+
+Applications to interface with the mobile platform using ReadBearLab's BLE Mini SDK. In the meantime, please sideload the BLE Controller App as described on the RedBearLab site: [http://redbearlab.com/blemini/](http://redbearlab.com/blemini/).
